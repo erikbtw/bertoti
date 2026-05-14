@@ -57,7 +57,7 @@ O jogo possui um gráfico mais baixo, com um mapa não tão grande, com o objeti
 
 Trade-off de realismo gráfico à acessibilidade.
 
-Exercício 3: Whatsapp
+Exemplo 3: Whatsapp
 
 O aplicativo possui uma segurança muito forte, uma criptografia muito forte, que faz com que o aplicativo use mais processador do dispositivo. Fazendo que possa diminuir o porcentagem de bateria mais rapidamente.
 
